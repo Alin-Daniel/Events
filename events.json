@@ -1,0 +1,50 @@
+{
+    "events": [
+        {
+            "title": "More about global environment",
+            "date": "2021-08-08T17:38:57+0000",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur arcu tristique metus congue, in gravida est aliquet. Phasellus imperdiet massa lobortis convallis sollicitudin. Maecenas elementum vel ante non cursus. Aenean tempus massa in nibh blandit, at ultrices urna posuere. Cras pharetra fermentum augue eu euismod. Sed est diam, mollis sed finibus id, tincidunt a augue. Nullam rutrum leo ac eros vulputate ultrices. Nunc turpis dolor, fermentum sed nulla id, porttitor eleifend ante. Suspendisse dolor libero, vehicula eu dignissim sit amet, feugiat nec justo. In in gravida augue. ",
+            "type": "webinar",
+            "details": {
+                "link": "#"
+            }
+        },
+        {
+            "title": "Rock Festival",
+            "date": "2021-08-10T03:38:57+0000",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur arcu tristique metus congue, in gravida est aliquet. Phasellus imperdiet massa lobortis convallis sollicitudin. Maecenas elementum vel ante non cursus. Aenean tempus massa in nibh blandit, at ultrices urna posuere. Cras pharetra fermentum augue eu euismod. Sed est diam, mollis sed finibus id, tincidunt a augue. Nullam rutrum leo ac eros vulputate ultrices. Nunc turpis dolor, fermentum sed nulla id, porttitor eleifend ante. Suspendisse dolor libero, vehicula eu dignissim sit amet, feugiat nec justo. In in gravida augue. ",
+            "type": "liveEvent",
+            "details": {
+                "location": "Avenue 2",
+                "address": "Str. WTC 10, no 5"
+            }
+        },
+        {
+            "title": "Spooky",
+            "date": "2021-07-25T01:24:44+0000",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur arcu tristique metus congue, in gravida est aliquet. Phasellus imperdiet massa lobortis convallis sollicitudin. Maecenas elementum vel ante non cursus. Aenean tempus massa in nibh blandit, at ultrices urna posuere. Cras pharetra fermentum augue eu euismod. Sed est diam, mollis sed finibus id, tincidunt a augue. Nullam rutrum leo ac eros vulputate ultrices. Nunc turpis dolor, fermentum sed nulla id, porttitor eleifend ante. Suspendisse dolor libero, vehicula eu dignissim sit amet, feugiat nec justo. In in gravida augue. ",
+            "type": "webinar",
+            "details": {
+                "link": "#"
+            }
+        },
+        {
+            "title": "Cultural event",
+            "date": "2021-09-02T04:06:44+0000",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur arcu tristique metus congue, in gravida est aliquet. Phasellus imperdiet massa lobortis convallis sollicitudin. Maecenas elementum vel ante non cursus. Aenean tempus massa in nibh blandit, at ultrices urna posuere. Cras pharetra fermentum augue eu euismod. Sed est diam, mollis sed finibus id, tincidunt a augue. Nullam rutrum leo ac eros vulputate ultrices. Nunc turpis dolor, fermentum sed nulla id, porttitor eleifend ante. Suspendisse dolor libero, vehicula eu dignissim sit amet, feugiat nec justo. In in gravida augue. ",
+            "type": "webinar",
+            "details": {
+                "link": "#"
+            }
+        },
+        {
+            "title": "It never dies",
+            "date": "2021-09-04T02:07:44+0000",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur arcu tristique metus congue, in gravida est aliquet. Phasellus imperdiet massa lobortis convallis sollicitudin. Maecenas elementum vel ante non cursus. Aenean tempus massa in nibh blandit, at ultrices urna posuere. Cras pharetra fermentum augue eu euismod. Sed est diam, mollis sed finibus id, tincidunt a augue. Nullam rutrum leo ac eros vulputate ultrices. Nunc turpis dolor, fermentum sed nulla id, porttitor eleifend ante. Suspendisse dolor libero, vehicula eu dignissim sit amet, feugiat nec justo. In in gravida augue. ",
+            "type": "party",
+            "details": {
+                "theme": "zombies"
+            }
+        }
+    ]
+}
